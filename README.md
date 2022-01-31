@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome :)
+My name is Aaban, and this is my GitHub where you can find all my projects and such.
+## Find me on:
+- [GitHub](https://github.com/complecks "complecks")
+- [Email](mailto:complecksthedev@gmail.com?subject=Hi% "Hi!")
+- [Twitter](https://twitter.com/complecksthedev)
+- [Instagram](https://instagram.com/complecksthedev)
+
 
 <!--
 **complecks/complecks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
