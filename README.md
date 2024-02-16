@@ -1,5 +1,6 @@
 # Welcome :)
-My name is Aaban, and this is my GitHub where you can find all my projects and such.
+My name is Aaban, and this is my GitHub.
+I love cars, motorcycles, network engineering, and cybersecurity.
 ## Find me on:
 - [GitHub](https://github.com/complecks "complecks")
 - [Email](mailto:complecksthedev@gmail.com)
