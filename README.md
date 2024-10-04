@@ -1,8 +1,9 @@
 # Welcome :)
 My name is Aaban, and this is my GitHub.
-I love cars, motorcycles, network engineering, and cybersecurity.
+I love cars, motorcycles, engineering, and cybersecurity.
+### Pronouns: Any
 ## Find me on:
-- [GitHub](https://github.com/complecks "complecks")
+- [GitHub](https://github.com/zepphen "zepphen")
 - [Email](mailto:zepphen@proton.me)
 - [Twitter](https://twitter.com/zepphen)
 - [Instagram](https://instagram.com/zepphenyrr)
