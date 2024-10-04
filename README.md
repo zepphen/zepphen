@@ -7,6 +7,7 @@ I love cars, motorcycles, engineering, and cybersecurity.
 - [Email](mailto:zepphen@proton.me)
 - [Twitter](https://twitter.com/zepphen)
 - [Instagram](https://instagram.com/zepphenyrr)
+- [LinkedIn](https://www.linkedin.com/in/aaban-moiz-34a35b22b)
 
 
 <!--
