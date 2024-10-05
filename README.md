@@ -1,11 +1,11 @@
 # Welcome :)
 My name is Aaban, and this is my GitHub.
 ## About Me:
-I love cars, motorcycles, engineering, and cybersecurity.
- Pronouns: Any
- Seeking: Research opportunities and internships in cybersecurity
- Affiliation: The University of Texas at San Antonio
- Role: Student, Majoring in Computer Science/Cyber Operations
+<br>I love cars, motorcycles, engineering, and cybersecurity.</br>
+<br>Pronouns: Any</br>
+<br>Seeking: Research opportunities and internships in cybersecurity</br>
+<br>Affiliation: The University of Texas at San Antonio</br>
+<br>Role: Student, Majoring in Computer Science/Cyber Operations</br>
 ## Find me on:
 - [GitHub](https://github.com/zepphen "zepphen")
 - [Email](mailto:zepphen@proton.me)
