@@ -6,7 +6,7 @@ My name is Aaban, and this is my GitHub.
 <p>Pronouns: Any</p>
 <p>Seeking: Research opportunities and internships in cybersecurity</p>
 <p>Affiliation: The University of Texas at San Antonio</p>
-<p>Role: Student, Majoring in Computer Science/Cyber Operations</p>
+<p>Role: Undergraduate Student, Majoring in Computer Science/Cyber Operations</p>
 
 ## Find me on:
 - [GitHub](https://github.com/zepphen "zepphen")
