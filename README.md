@@ -3,10 +3,10 @@ My name is Aaban, and this is my GitHub.
 
 ## About Me:
 <p>I love cars, motorcycles, engineering, and cybersecurity.</p>
-<br>Pronouns: Any</br>
-<br>Seeking: Research opportunities and internships in cybersecurity</br>
-<br>Affiliation: The University of Texas at San Antonio</br>
-<br>Role: Student, Majoring in Computer Science/Cyber Operations</br>
+<p>Pronouns: Any</p>
+<p>Seeking: Research opportunities and internships in cybersecurity</p>
+<p>Affiliation: The University of Texas at San Antonio</p>
+<p>Role: Student, Majoring in Computer Science/Cyber Operations</p>
 
 ## Find me on:
 - [GitHub](https://github.com/zepphen "zepphen")
