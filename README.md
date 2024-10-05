@@ -2,6 +2,7 @@
 My name is Aaban, and this is my GitHub.
 I love cars, motorcycles, engineering, and cybersecurity.
 ### Pronouns: Any
+### Seeking: Research opportunities and internships in cybersecurity
 ## Find me on:
 - [GitHub](https://github.com/zepphen "zepphen")
 - [Email](mailto:zepphen@proton.me)
