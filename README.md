@@ -10,7 +10,7 @@ My name is Aaban, and this is my GitHub.
 <p>Role: Undergraduate Student, Majoring in Computer Science/Cyber Operations</p>
 
 ## Find me on:
-- [GitHub](https://github.com/zepphen "zepphen") (Here!)
+- [GitHub](https://github.com/zepphen "zepphen") (You're here!)
 - [Email](mailto:zepphen@proton.me)
 - [Twitter](https://twitter.com/zepphen)
 - [Instagram](https://instagram.com/zepphenyrr)
