@@ -2,12 +2,12 @@
 My name is Aaban, and this is my GitHub.
 
 ## About Me:
-<p>I love cars, motorcycles, engineering, and cybersecurity.</p>
-<b>Quick Facts:</b>
-<p>Pronouns: Any</p>
-<p>Seeking: Research opportunities and internships in cybersecurity</p>
-<p>Affiliation: The University of Texas at San Antonio</p>
-<p>Role: Undergraduate Student, Majoring in Computer Science/Cyber Operations</p>
+I love cars, motorcycles, engineering, and cybersecurity.
+### Quick Facts:
+- Pronouns: Any
+- Seeking: Research opportunities and internships in cybersecurity
+- Affiliation: The University of Texas at San Antonio  
+- Role: Undergraduate Student, Majoring in Computer Science | CAE - Cyber Operations  
 
 ## Projects I'm Working On
 - Python Caesar Cipher
