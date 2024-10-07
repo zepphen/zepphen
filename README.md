@@ -15,7 +15,7 @@ My name is Aaban, and this is my GitHub.
 - [Twitter](https://twitter.com/zepphen)
 - [Instagram](https://instagram.com/zepphenyrr)
 - [Discord](https://discordapp.com/users/388759933128278016)
-- [LinkedIn](https://www.linkedin.com/in/aaban-moiz-34a35b22b)
+- [LinkedIn](https://www.linkedin.com/in/aaban-moiz)
 - [ORCiD](https://orcid.org/0009-0008-5267-2374)
 
 
