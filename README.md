@@ -32,8 +32,6 @@ My name is kinda hard to pronounce, so you're welcome to call me by my nickname,
 - [Discord](https://discordapp.com/users/388759933128278016)
 - [LinkedIn](https://www.linkedin.com/in/aaban-moiz)
 - [ORCiD](https://orcid.org/0009-0008-5267-2374)
-
-
 <!--
 **complecks/complecks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
