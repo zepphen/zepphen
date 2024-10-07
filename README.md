@@ -9,6 +9,13 @@ My name is Aaban, and this is my GitHub.
 <p>Affiliation: The University of Texas at San Antonio</p>
 <p>Role: Undergraduate Student, Majoring in Computer Science/Cyber Operations</p>
 
+## Projects I'm Working On
+- Python Caesar Cipher
+
+## Events/Competitions I Am Actively Involved With
+- National Cyber League Fall 2024
+- NSA Codebreakers Challenge 2024
+
 ## Find me on:
 - [GitHub](https://github.com/zepphen "zepphen") (You're here!)
 - [Email](mailto:zepphen@proton.me)
