@@ -6,7 +6,7 @@ My name is Aaban, and this is my GitHub.
 - Huge Resident Evil Fan
 - My favorite music artist is either Chappell Roan or Rory in early 20s
 - I built my first robot when I was 4
-- I've been coding since I was little
+- I've been coding since I was little, my first ever program was a batch Pokémon inspired game
 - I've been to several robotics world championships for multiple competitions
 - My robotics team won the FIRST in Texas State Championship in 2023
 - My tech idols/heroes are Marcus Hutchins, Joe Grand, and Tristan Harris
