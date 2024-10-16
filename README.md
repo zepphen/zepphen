@@ -5,7 +5,7 @@ My name is kinda hard to pronounce, so you're welcome to call me by my nickname,
 ## About Me:
 - I love cybersecurity, engineering, animals, cars, and motorcycles.
 - Huge Resident Evil Fan
-- My favorite music artist is either Chappell Roan or Rory in early 20s
+- My favorite music artists are Chappell Roan and Rory in early 20s
 - I built my first robot when I was 4
 - I've been coding since I was little, my first ever program was a batch Pokémon inspired game
 - I've been to several robotics world championships for multiple competitions
@@ -20,6 +20,16 @@ My name is kinda hard to pronounce, so you're welcome to call me by my nickname,
 ## Projects I'm Working On
 - Python Caesar Cipher
 
+## Skills/ Topics I'm Learning
+- Malware Reverse Engineering
+- Hotplug Attacks
+- Implant Development and Utilization
+- Command & Control
+- Cryptography
+- Kali Linux (Basic Tools)
+- MITM Attacks
+- Metasploit
+
 ## Events/Competitions I Am Actively Involved With
 - National Cyber League Fall 2024
 - NSA Codebreakers Challenge 2024
@@ -32,17 +42,3 @@ My name is kinda hard to pronounce, so you're welcome to call me by my nickname,
 - [Discord](https://discordapp.com/users/388759933128278016)
 - [LinkedIn](https://www.linkedin.com/in/aaban-moiz)
 - [ORCiD](https://orcid.org/0009-0008-5267-2374)
-<!--
-**complecks/complecks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
