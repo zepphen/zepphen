@@ -5,7 +5,7 @@ My name is kinda hard to pronounce, so you're welcome to call me by my nickname,
 ## About Me:
 - I love cybersecurity, engineering, animals, cars, and motorcycles.
 - Huge Resident Evil Fan
-- My favorite music artists are Chappell Roan and Rory in early 20s
+- My favorite music artists are Chappell Roan, Sabrina Carpenter, and Rory in early 20s
 - I built my first robot when I was 4
 - I've been coding since I was little, my first ever program was a batch Pokémon inspired game
 - I've been to several robotics world championships for multiple competitions
