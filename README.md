@@ -31,8 +31,7 @@ My name is kinda hard to pronounce, so you're welcome to call me by my nickname,
 - Metasploit
 
 ## Events/Competitions I Am Actively Involved With
-- National Cyber League Fall 2024
-- NSA Codebreakers Challenge 2024
+None at the moment.
 
 ## Find me on:
 - [GitHub](https://github.com/zepphen "zepphen") (You're here!)
