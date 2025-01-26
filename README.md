@@ -1,6 +1,6 @@
 # Welcome :)
 <p>My name is Aaban, and this is my GitHub.<br />
-My name is kinda hard to pronounce, so you're welcome to call me by my nickname, Captain.</p>
+My name is kinda hard to pronounce, so you're welcome to call me by my nickname, Captain, or my pseudonym, Zephyr.</p>
 
 ## About Me:
 - I love cybersecurity, engineering, animals, cars, and motorcycles.
