@@ -20,7 +20,7 @@ My name is kinda hard to pronounce, so you're welcome to call me by my nickname,
 ## Projects I'm Working On
 - Python Caesar Cipher
 
-## Skills/ Topics I'm Learning
+## Skills/Topics I'm Learning
 - Malware Reverse Engineering
 - Hotplug Attacks
 - Implant Development and Utilization
