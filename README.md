@@ -18,14 +18,9 @@ My name is pronounced "Uh-bon".</p>
 None at the moment.
 
 ## Skills/Topics I'm Learning
-- Malware Reverse Engineering
-- Hotplug Attacks
-- Implant Development and Utilization
-- Command & Control
-- Cryptography
 - Kali Linux (Basic Tools)
-- MITM Attacks
-- Metasploit
+- More Linux/Unix CLI
+- nmap
 
 ## Events/Competitions I Am Actively Involved With
 None at the moment.
