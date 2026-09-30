@@ -12,18 +12,22 @@ My name is pronounced "Uh-bon".</p>
 - My biggest inspirations in tech are Marcus Hutchins, Joe Grand, and Tristan Harris
 ### Quick Facts:
 - Affiliation: The University of Texas at San Antonio  
-- Role: Undergraduate Student, Majoring in Computer Science | CAE - Cyber Operations  
+- Role: Undergraduate Student, Majoring in Computer Science on the NSA Cyber Operations Track
 
 ## Projects I'm Working On
 - ACM ClubHub
 - A drone for ACM Rowdy Creators
 - A pentesting drone for [Cyber Jedis D5i](https://d5i.store)
 - A mock E-Commerce Bookstore inspired by Barnes n Noble for class (not an actual business)
+- Course Based Undergraduate Research in Cybersecurity
 
 ## Skills/Topics I'm Learning
 - Kali Linux (Basic Tools)
 - More Linux/Unix CLI
 - nmap
+- Next.js
+- Drizzle ORM
+- ESP32
 
 ## Events/Competitions I Am Actively Involved With
 - RowdyHacks XII: I'll be attending Oct. 3-4
