@@ -1,5 +1,5 @@
 # Welcome :)
-<p>My name is Aaban, and this is my GitHub.<br />
+<p>My name is Aaban. Welcome to my GitHub!<br />
 My name is pronounced "Uh-bon".</p>
 
 ## About Me:
@@ -25,12 +25,21 @@ My name is pronounced "Uh-bon".</p>
 - Kali Linux (Basic Tools)
 - More Linux/Unix CLI
 - nmap
+- Reverse Engineering
+- Binary Exploitation
+- OSINT
 - Next.js
 - Drizzle ORM
 - ESP32
+- Raspberry Pi
 
 ## Events/Competitions I Am Actively Involved With
-- RowdyHacks XII: I'll be attending Oct. 3-4
+- Rowdy Cyber Con - I will be attending on November 7th, 2026
+
+## Past Events/Competitions
+- FIRST Robotics Competition ([2023 State Championship Winner](https://frc-events.firstinspires.org/team/8576), [World Championship Attendee](https://frc-events.firstinspires.org/team/8576))
+- VEX Robotics Competition [High School] (2x World Championship Attendee)
+- RowdyHacks XII (CTF Participant)
 
 ## Find me on:
 - [GitHub](https://github.com/zepphen "zepphen") (You're here!)
