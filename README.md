@@ -17,16 +17,13 @@ My name is pronounced "Uh-bon".</p>
 ## Projects I'm Working On
 - ACM ClubHub
 - A drone for ACM Rowdy Creators
-- A pentesting drone for [Cyber Jedis D5i](https://d5i.store)
+- A pentesting drone for [D5 Interactive](https://d5i.store)
 - A mock E-Commerce Bookstore inspired by Barnes n Noble for class (not an actual business)
 - Course Based Undergraduate Research in Cybersecurity
 
 ## Skills/Topics I'm Learning
 - Kali Linux (Basic Tools)
 - More Linux/Unix CLI
-- nmap
-- Reverse Engineering
-- Binary Exploitation
 - OSINT
 - Next.js
 - Drizzle ORM
