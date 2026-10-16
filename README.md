@@ -49,7 +49,7 @@
   <a href="https://instagram.com/zepphenyrr"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF2A2A" alt="Instagram"></a>
   <a href="https://discordapp.com/users/388759933128278016"><img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=FF2A2A" alt="Discord"></a>
   <a href="https://orcid.org/0009-0008-5267-2374"><img src="https://img.shields.io/badge/orcid-000000?style=for-the-badge&logo=orcid&logoColor=FF2A2A" alt="ORCiD"></a>
-  <a href="https://d5i.store"><img src="assets/D5_dog_inverted-no-bg-red-special.svg" height="28" alt=""><img src="https://img.shields.io/badge/d5i.store-000000?style=for-the-badge" alt="D5 Interactive"></a>
+  <a href="https://d5i.store"><img src="assets/d5i-badge.svg" height="28" alt="D5 Interactive (d5i.store)"></a>
 </p>
 
 <p align="center">
