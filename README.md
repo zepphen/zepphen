@@ -15,27 +15,31 @@
 </p>
 
 <p align="center">
-  <img src="assets/05-projects.svg" width="100%" loading="lazy" alt="Building: ACM ClubHub, a drone for ACM Rowdy Creators, a pentesting drone for D5 Interactive, a mock Barnes & Noble-inspired e-commerce bookstore (class project), and course-based undergraduate research (CURE) on AI vulnerabilities.">
+  <img src="assets/05-experience.svg" width="100%" loading="lazy" alt="Experience: IT help desk and basic networking at Right Medical Billing, part-time / internship with a flexible schedule.">
 </p>
 
 <p align="center">
-  <img src="assets/06-learning.svg" width="100%" loading="lazy" alt="Learning: Kali Linux basic tools, Linux/Unix CLI, OSINT, Next.js, Drizzle ORM, ESP32, Raspberry Pi.">
+  <img src="assets/06-projects.svg" width="100%" loading="lazy" alt="Building: ACM ClubHub, a drone for ACM Rowdy Creators, a pentesting drone for D5 Interactive, a mock Barnes & Noble-inspired e-commerce bookstore (class project), and course-based undergraduate research (CURE) on AI vulnerabilities.">
 </p>
 
 <p align="center">
-  <a href="https://frc-events.firstinspires.org/team/8576"><img src="assets/07-events.svg" width="100%" loading="lazy" alt="Events, oldest to newest: FIRST Robotics 2022-2024, 2023 FIRST in Texas State Champion and World Championship attendee; VEX Robotics 2023-2024, 2x World Championship attendee; RowdyHacks XII (Oct 2026), CTF participant; upcoming: Rowdy Cyber Con, Nov 7 2026."></a>
+  <img src="assets/07-learning.svg" width="100%" loading="lazy" alt="Learning: Kali Linux basic tools, Linux/Unix CLI, OSINT, Next.js, Drizzle ORM, ESP32, Raspberry Pi.">
 </p>
 
 <p align="center">
-  <img src="assets/08-fun.svg" width="100%" loading="lazy" alt="Fun facts: built my first robot at 4; first program was a Pokémon-inspired batch game; tech inspirations are Marcus Hutchins, Joe Grand, and Tristan Harris.">
+  <a href="https://frc-events.firstinspires.org/team/8576"><img src="assets/08-events.svg" width="100%" loading="lazy" alt="Events, oldest to newest: FIRST Robotics 2022-2024, 2023 FIRST in Texas State Champion and World Championship attendee; VEX Robotics 2023-2024, 2x World Championship attendee; RowdyHacks XII (Oct 2026), CTF participant; upcoming: Rowdy Cyber Con, Nov 7 2026."></a>
 </p>
 
 <p align="center">
-  <img src="assets/09-favorites.svg" width="100%" loading="lazy" alt="Favorites. Anime: Chainsaw Man, Jujutsu Kaisen. Games: Warframe, Minecraft, Marathon, the FNAF series, Death Stranding Director's Cut, Death Stranding 2. Music: Billy Idol, Snow Strippers, beabadoobee, Machine Girl, Rory in early 20s, Nirvana, The Smashing Pumpkins, Deftones, Queens of the Stone Age, Lexycat, Muse.">
+  <img src="assets/09-fun.svg" width="100%" loading="lazy" alt="Fun facts: built my first robot at 4; first program was a Pokémon-inspired batch game; tech inspirations are Marcus Hutchins, Joe Grand, and Tristan Harris.">
 </p>
 
 <p align="center">
-  <img src="assets/10-links.svg" width="100%" loading="lazy" alt="ls ~/links">
+  <img src="assets/10-favorites.svg" width="100%" loading="lazy" alt="Favorites. Anime: Chainsaw Man, Jujutsu Kaisen. Games: Warframe, Minecraft, Marathon, the FNAF series, Death Stranding Director's Cut, Death Stranding 2. Music: Billy Idol, Snow Strippers, beabadoobee, Machine Girl, Rory in early 20s, Nirvana, The Smashing Pumpkins, Deftones, Queens of the Stone Age, Lexycat, Muse.">
+</p>
+
+<p align="center">
+  <img src="assets/11-links.svg" width="100%" loading="lazy" alt="ls ~/links">
 </p>
 
 <p align="center">
@@ -45,7 +49,7 @@
   <a href="https://instagram.com/zepphenyrr"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF2A2A" alt="Instagram"></a>
   <a href="https://discordapp.com/users/388759933128278016"><img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=FF2A2A" alt="Discord"></a>
   <a href="https://orcid.org/0009-0008-5267-2374"><img src="https://img.shields.io/badge/orcid-000000?style=for-the-badge&logo=orcid&logoColor=FF2A2A" alt="ORCiD"></a>
-  <a href="https://d5i.store"><img src="https://img.shields.io/badge/d5i.store-000000?style=for-the-badge&logoColor=FF2A2A" alt="D5 Interactive"></a>
+  <a href="https://d5i.store"><img src="assets/D5_dog_inverted-no-bg-red-special.svg" height="28" alt=""><img src="https://img.shields.io/badge/d5i.store-000000?style=for-the-badge" alt="D5 Interactive"></a>
 </p>
 
 <p align="center">

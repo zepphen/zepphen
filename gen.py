@@ -200,6 +200,15 @@ for lg, inf in zip(logo, info):
     t.out((f"{lg:<16}", "cyan"), *inf, gap=0.08)
 t.render("04-neofetch.svg")
 
+# ───────── 3b. experience (systemctl) ─────────
+t = Term("~/experience")
+t.cmd("systemctl status rmb-it.service")
+t.out(("● ", "green"), ("rmb-it.service", "fg"), (" — IT Help Desk & Networking @ Right Medical Billing", "fg"))
+t.out(("     Loaded: ", "dim"), "part-time / internship")
+t.out(("     Active: ", "dim"), ("active (running)", "green"), ("  flexible schedule, pitching in as needed", "dim"))
+t.out(("      Tasks: ", "dim"), "help desk support · troubleshooting · basic networking")
+t.render("05-experience.svg")
+
 # ───────── 4. projects (ps) ─────────
 t = Term("~/projects")
 t.cmd("ps aux --projects")
@@ -211,7 +220,7 @@ procs = [("acm-clubhub", ""),
          ("cure-research --ai-vulns", "  # CURE: AI vulnerability research")]
 for i, (p, note) in enumerate(procs):
     t.out((f"  {101+i}  ", "fg"), ("running  ", "green"), (p, "fg"), (note, "dim"))
-t.render("05-projects.svg")
+t.render("06-projects.svg")
 
 # ───────── 5. learning (apt) ─────────
 t = Term("~/learning")
@@ -222,7 +231,7 @@ pkgs = [("kali-linux (basic tools)", 6), ("linux/unix cli", 7), ("osint", 5), ("
 for name, n in pkgs:
     bar = "█" * n + "░" * (12 - n)
     t.out(("Setting up ", "fg"), (f"{name:<26}", "cyan"), (f"[{bar}] ", "green"), ("in progress", "amber"), gap=0.18)
-t.render("06-learning.svg")
+t.render("07-learning.svg")
 
 # ───────── 6. events ─────────
 t = Term("~/events.log")
@@ -232,7 +241,7 @@ t.out(" " * 23, "World Championship attendee")
 t.out(("[  DONE  ] ", "green"), ("2023–2024   ", "dim"), "VEX Robotics — 2× World Championship attendee")
 t.out(("[  DONE  ] ", "green"), ("2026-10     ", "dim"), "RowdyHacks XII — CTF participant")
 t.out(("[UPCOMING] ", "amber"), ("2026-11-07  ", "dim"), "Rowdy Cyber Con — attending")
-t.render("07-events.svg")
+t.render("08-events.svg")
 
 # ───────── 7. fun facts ─────────
 t = Term("~/fun-facts")
@@ -240,7 +249,7 @@ t.cmd("fortune --all")
 t.out(("⌁ ", "green"), "built my first robot when I was 4")
 t.out(("⌁ ", "green"), "first-ever program: a Pokémon-inspired batch game")
 t.out(("⌁ ", "green"), "tech inspirations: Marcus Hutchins, Joe Grand, Tristan Harris")
-t.render("08-fun.svg")
+t.render("09-fun.svg")
 
 # ───────── 8. favorites ─────────
 def grid(items, cols, width, color="blue", prefix=None):
@@ -266,12 +275,12 @@ t.cmd("mpc playlist")
 grid(["Billy Idol", "Snow Strippers", "beabadoobee", "Machine Girl", "Rory in early 20s",
       "Nirvana", "The Smashing Pumpkins", "Deftones", "Queens of the Stone Age", "Lexycat", "Muse"],
      3, 28, prefix="♫ ")
-t.render("09-favorites.svg")
+t.render("10-favorites.svg")
 
 # ───────── 9. links header ─────────
 t = Term("~/links")
 t.cmd("ls ~/links")
 t.out(("email  linkedin  twitter  instagram  discord  orcid  d5i.store", "blue"))
-t.render("10-links.svg", cursor=False)
+t.render("11-links.svg", cursor=False)
 
 print("ok")
